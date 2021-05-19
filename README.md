@@ -1,5 +1,5 @@
 # api_yamdb
-![yamdb_final](https://github.com/stevinel/yamdb_final/workflows/yamdb_workflow/badge.svg)
+![yamdb_final](https://github.com/Stevinel/yamdb_final/workflows/yamdb_workflow/badge.svg)](https://github.com/Stevinel/yamdb_final/actions)
 
 ## Описание
 API для проекта yamdb.
