@@ -1,5 +1,5 @@
 # api_yamdb
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![yatube_final](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
 ## Описание
 API для проекта yamdb.
