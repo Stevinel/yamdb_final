@@ -1,5 +1,5 @@
 # api_yamdb
-![yatube_final](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+[![YaMDb Status](https://github.com/stevinel/yamdb_final/workflows/yamdb_workflow/badge.svg)](http://ya-backend.ml/)
 
 ## Описание
 API для проекта yamdb.
