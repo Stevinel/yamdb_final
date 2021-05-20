@@ -1,6 +1,12 @@
 # api_yamdb
 ![yamdb_final](https://github.com/Stevinel/yamdb_final/workflows/yamdb_final/badge.svg)
 
+### Адрес проекта
+http://178.154.214.113/admin
+
+### Пример запроса
+http://178.154.214.113/api/v1/titles/1/
+
 ## Описание
 API для проекта yamdb.
 
